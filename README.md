@@ -1,10 +1,10 @@
 <div align="center"> <img src='https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif' style="height: 400px;"/> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Mudassiruddin!!🌐✨;Full-Time+Data+Geek+!!;+I+make+data+talk+literally+with+LLM's!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Sara+Rizwan!!🌐✨;Full-Time+Data+Geek+!!;+I+make+data+talk+literally+with+LLM's!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="mudassiruddin7 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sararizwan7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="sararizwan7 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararizwan7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
 </div>
 
 Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
@@ -14,7 +14,7 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 - 👯 I’m looking to collaborate on Open-Source Projects  
 - 🤔 I’m looking for help with Open-Source Contributors 
 - 💬 Ask me about Data Science 
-- 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
+- 📫 How to reach me: mohd.sararizwan7@gmail.com 
 - ⚡ Fun fact: Numbers don't lie, they reveal!!
 
 <h3 align="left">Connect with me:</h3>
