@@ -1,25 +1,30 @@
 <div align="center"> <img src='https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif' style="height: 400px;"/> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Sara+Rizwan!!🌐✨;Full-Time+Data+Geek+!!;+I+make+data+talk+literally+with+LLM's!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Sara+Rizwan!!🌐✨;Full-Time+Pixel+Wizard+!!;+I+design+UIs+that+flirt+with+your+retina!!+Let+the+layers+go+wild!!🎨🔥+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sararizwan7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="sararizwan7 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararizwan7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
 </div>
 
-Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
-<img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-- 🔭 I’m currently working on Data Science Projects 
-- 🌱 I’m currently learning Hadoop, Spark, PowerBI, Tableau
-- 👯 I’m looking to collaborate on Open-Source Projects  
-- 🤔 I’m looking for help with Open-Source Contributors 
-- 💬 Ask me about Data Science 
-- 📫 How to reach me: mohd.sararizwan7@gmail.com 
-- ⚡ Fun fact: Numbers don't lie, they reveal!!
+**Skills:** UI/UX Design, Figma, Prototyping, Wireframing, Design Systems, User Research  
+<img align="right" alt="Design Vibes" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+- 🎨 I’m currently designing beautiful & intuitive user experiences  
+- 🌱 I’m currently learning UX Psychology, Motion Design, Framer, and Webflow  
+- 🤝 I’m looking to collaborate on UI/UX-focused open-source or startup projects  
+- 💡 I’m looking for feedback from fellow designers & front-end devs  
+- 💬 Ask me about Figma workflows, auto-layout sorcery, or pixel-perfection!  
+- 📫 How to reach me: **sara.rizwan014@gmail.com**  
+- ⚡ Fun fact: My designs don’t speak—they scream *usability with flair!* 🎯✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sara-rizwan-28871a289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sararizwan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sararizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudassiruddin7" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sararizwan" target="blank"><img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sararizwan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sara_r1zwan0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sararizwan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sara_rizwan014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sararizwan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
